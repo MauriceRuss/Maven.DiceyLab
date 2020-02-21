@@ -1,8 +1,8 @@
 import java.util.Random;
 
 public class Dice {
-    private int diceCraps;
-    private int diceYatz;
+    private int dice1;
+    private int dice2;
     private Random rgen;
     private int numberOfTosses;
 

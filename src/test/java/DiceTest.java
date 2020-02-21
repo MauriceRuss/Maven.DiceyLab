@@ -22,4 +22,6 @@ public class DiceTest {
         //then
         Assert.assertEquals(result, 5);
     }
+
+
 }
